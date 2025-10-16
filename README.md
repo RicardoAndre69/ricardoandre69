@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=Hello,I'm%20Ricardo" alt="banner" />
-</p>
-<h3 align="center">A passionate junior developer from Brazil</h3>
+![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
+<h3 align="center">Junior Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardoandre69&label=Profile%20views&color=0e75b6&style=flat" alt="ricardoandre69" /> </p>
 
