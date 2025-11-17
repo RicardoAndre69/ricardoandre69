@@ -31,7 +31,7 @@ Let's connect on Linkedin! 🚀
 <img alt="Static Badge" src="https://img.shields.io/badge/mysql-l?logo=mysql&color=%2393dbfa">
 <img alt="Static Badge" src="https://img.shields.io/badge/postman-n?logo=postman&color=%23f74605">
 <img alt="Static Badge" src="https://img.shields.io/badge/nextjs-s?logo=Next.js&color=%230a0012">
-<img alt="Static Badge" src="https://img.shields.io/badge/nextjs-s?logo=Node.js&color=%23025716">
+<img alt="Static Badge" src="https://img.shields.io/badge/nodejs-s?logo=Node.js&color=%23025716">
 <img alt="Static Badge" src="https://img.shields.io/badge/express-s?logo=Express&color=%23025716">
 
 
