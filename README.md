@@ -39,7 +39,7 @@ Let's connect on Linkedin! 🚀
 
 </p>
 
-- 🌱 I’m currently learning **Angular** and **MongoDB**
+- 🌱 I’m currently learning **Angular** and **PostgreSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
