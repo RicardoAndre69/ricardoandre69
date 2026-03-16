@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=536976&text=Hello,I'm%20Ricardo&fontSize=80&fontColor=fff&fontAlign=51&fontAlignY=50" alt="banner" />
+  <img src="https://waveify.onrender.com/api/typing/neon?text=Hello%2C+I%27m+Ricardo%21&speed=125&color=%230040d6&backgroundColor=transparent&fontSize=50&fontFamily=monospace&width=500&height=80&cursor=false&type=neon&gradientColors=%23ff6b6b%2C%234ecdc4%2C%2345b7d1&repeat=true&glowEffect=false&easing=linear" alt="Typing Animation">
 </p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2885B8&center=true&width=435&lines=Junior+Developer" alt="Typing SVG" /></a></p>
+<img src="https://waveify.onrender.com/api/typing/classic?text=Junior+Developer&speed=60&color=%232885B8&backgroundColor=transparent&fontSize=28&fontFamily=Roboto+Mono%2C+monospace&width=350&height=60&cursor=false&type=classic" alt="Typing Animation"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardoandre69&label=Profile%20views&color=0e75b6&style=flat" alt="ricardoandre69" /> </p>
 
 <h3 align="left">About me:</h3>
