@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://waveify.onrender.com/api/typing/neon?text=Hello%2C+I%27m+Ricardo%21&speed=125&color=%230040d6&backgroundColor=transparent&fontSize=50&fontFamily=monospace&width=500&height=80&cursor=false&type=neon&gradientColors=%23ff6b6b%2C%234ecdc4%2C%2345b7d1&repeat=true&glowEffect=false&easing=linear" alt="Typing Animation">
+  <img src="https://waveify.onrender.com/api/typing/neon?text=Hello%2C+I%27m+Ricardo%21&speed=125&color=%230040d6&backgroundColor=transparent&fontSize=50&fontFamily=monospace&width=500&height=80&cursor=false&type=neon&gradientColors=%23ff6b6b%2C%234ecdc4%2C%2345b7d1&repeat=true&glowEffect=false&easing=linear" alt="Typing Animation ">
 </p>
 <p align="center">
 <img src="https://waveify.onrender.com/api/typing/classic?text=Junior+Developer&speed=60&color=%232885B8&backgroundColor=transparent&fontSize=28&fontFamily=Roboto+Mono%2C+monospace&width=350&height=60&cursor=false&type=classic" alt="Typing Animation"></p>
