@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://waveify.onrender.com/api/typing/neon?text=Hello%2C+I%27m+Ricardo%21&speed=125&color=%230040d6&backgroundColor=transparent&fontSize=50&fontFamily=monospace&width=500&height=80&cursor=false&type=neon&gradientColors=%23ff6b6b%2C%234ecdc4%2C%2345b7d1&repeat=true&glowEffect=false&easing=linear" alt="Typing Animation ">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=2500&pause=1000&color=0040D6&center=true&vCenter=true&width=550&height=65&lines=%20%20%20Hello,+I'm+Ricardo!%20%20%20" />
 </p>
+
 <p align="center">
-<img src="https://waveify.onrender.com/api/typing/classic?text=Junior+Developer&speed=60&color=%232885B8&backgroundColor=transparent&fontSize=28&fontFamily=Roboto+Mono%2C+monospace&width=350&height=60&cursor=false&type=classic" alt="Typing Animation"></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardoandre69&label=Profile%20views&color=0e75b6&style=flat" alt="ricardoandre69" /> </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=600&pause=1000&color=2885B8&center=true&vCenter=true&width=350&lines=Junior+Developer" />
+</p>
 
 <h3 align="left">About me:</h3>
 
