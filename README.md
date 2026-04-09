@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=2500&pause=1000&color=0040D6&center=true&vCenter=true&width=550&height=65&lines=%20%20%20Hello,+I'm+Ricardo!%20%20%20" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=2550&pause=1000&color=0040D6&center=true&vCenter=true&width=550&height=65&lines=%20%20%20Hello,+I'm+Ricardo!%20%20%20" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=600&pause=1000&color=2885B8&center=true&vCenter=true&width=350&lines=Junior+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=2550&pause=1000&color=2885B8&center=true&vCenter=true&width=350&lines=Junior+Developer" />
 </p>
 
 <h3 align="left">About me:</h3>
