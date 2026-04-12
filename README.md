@@ -58,4 +58,4 @@ Let's connect on Linkedin! 🚀
 </p>
 </p>
 
-![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=150&section=footer)
