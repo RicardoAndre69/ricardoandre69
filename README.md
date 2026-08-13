@@ -21,26 +21,23 @@ Let's connect on Linkedin! 🚀
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-<img alt="Static Badge" src="https://img.shields.io/badge/html-l?logo=html5&color=%23f28218">
-<img alt="Static Badge" src="https://img.shields.io/badge/css-s?logo=css&color=%23264de4">
-<img alt="Static Badge" src="https://img.shields.io/badge/javascript-t?logo=javascript&color=%23c7bd73">
-<img alt="Static Badge" src="https://img.shields.io/badge/typescript-t?logo=typescript&color=%23235a97">
-<img alt="Static Badge" src="https://img.shields.io/badge/react-t?logo=react&color=%234287f5">
-<img alt="Static Badge" src="https://img.shields.io/badge/angular-r?logo=angular&color=%23dd1b16">
-<img alt="Static Badge" src="https://img.shields.io/badge/php-p?logo=php&color=%23474A8A">
-<img alt="Static Badge" src="https://img.shields.io/badge/kotlin-n?logo=kotlin&color=%234f3c85">
-<img alt="Static Badge" src="https://img.shields.io/badge/mysql-l?logo=mysql&color=%2393dbfa">
-<img alt="Static Badge" src="https://img.shields.io/badge/postman-n?logo=postman&color=%23f74605">
-<img alt="Static Badge" src="https://img.shields.io/badge/nextjs-s?logo=Next.js&color=%230a0012">
-<img alt="Static Badge" src="https://img.shields.io/badge/nodejs-s?logo=Node.js&color=%23025716">
-<img alt="Static Badge" src="https://img.shields.io/badge/express-s?logo=Express&color=%23025716">
-
-
-
-
+<img alt="Static Badge" src="https://img.shields.io/badge/html-l?style=for-the-badge&logo=html5&logoColor=%23fff&color=3178C6">
+<img alt="Static Badge" src="https://img.shields.io/badge/css-s?style=for-the-badge&logo=css&logoColor=%23fff&color=3178C6">
+<img alt="Static Badge" src="https://img.shields.io/badge/javascript-t?style=for-the-badge&logo=javascript&logoColor=%23fff&color=3178C6">
+<img alt="Static Badge" src="https://img.shields.io/badge/typescript-t?style=for-the-badge&logo=typescript&logoColor=%23fff&color=3178C6">
+<img alt="Static Badge" src="https://img.shields.io/badge/react-t?style=for-the-badge&logo=react&logoColor=%23fff&color=3178C6">
+<img alt="Static Badge" src="https://img.shields.io/badge/angular-r?style=for-the-badge&logo=angular&logoColor=%23fff&color=3178C6">
+<img alt="Static Badge" src="https://img.shields.io/badge/php-p?style=for-the-badge&logo=php&logoColor=%23fff&color=3178C6">
+<img alt="Static Badge" src="https://img.shields.io/badge/kotlin-n?style=for-the-badge&logo=kotlin&logoColor=%23fff&color=3178C6">
+<img alt="Static Badge" src="https://img.shields.io/badge/mysql-l?style=for-the-badge&logo=mysql&logoColor=%23fff&color=3178C6">
+<img alt="Static Badge" src="https://img.shields.io/badge/sqlite-e?style=for-the-badge&logo=sqlite&logoColor=%23fff&color=3178C6">
+<img alt="Static Badge" src="https://img.shields.io/badge/postgresql-l?style=for-the-badge&logo=postgresql&logoColor=%23fff&color=3178C6">
+<img alt="Static Badge" src="https://img.shields.io/badge/postman-n?style=for-the-badge&logo=postman&logoColor=%23fff&color=3178C6">
+<img alt="Static Badge" src="https://img.shields.io/badge/nextjs-s?style=for-the-badge&logo=Next.js&logoColor=%23fff&color=3178C6">
+<img alt="Static Badge" src="https://img.shields.io/badge/nodejs-s?style=for-the-badge&logo=Node.js&logoColor=%23fff&color=3178C6">
+<img alt="Static Badge" src="https://img.shields.io/badge/express-s?style=for-the-badge&logo=Express&logoColor=%23fff&color=3178C6">
+  
 </p>
-
-- 🌱 I’m currently learning **Angular** and **PostgreSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
