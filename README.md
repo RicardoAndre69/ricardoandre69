@@ -3,19 +3,19 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=2550&pause=1000&color=2885B8&center=true&vCenter=true&width=350&lines=Junior+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3550&pause=1000&width=435&lines=Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 <h3 align="left">About me:</h3>
 
 <p align="left">
-I'm Ricardo Andre, a junior developer passionate about technology and continuous learning.  
-Currently, I'm studying Information Systems and focusing on improving my skills in web development.
+I'm Ricardo André, a full-stack developer with 2+ years of professional experience, currently studying Information Systems.
 
-Right now, I'm working with JavaScript, Node.js, React and integrating databases using MySQL.
-Always open to new challenges and projects to grow in the development field! 
+At my current job, I work across the entire product lifecycle: designing interfaces in Figma, building frontends with **React and TypeScript**, developing backends with **Node.js and Express**, modeling and optimizing **MySQL** databases, and deploying and maintaining applications on **Linux servers with Nginx and PM2**.
 
-Let's connect on Linkedin! 🚀
+I enjoy connecting the pieces: integrating systems through REST APIs and webhooks, automating manual data flows, and improving performance wherever it's slow, from queries to rendering.
+
+Outside work, I like exploring technologies beyond my daily stack, such as C#, PHP, Python, Angular, RabbitMQ, PostgreSQL and Docker.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
