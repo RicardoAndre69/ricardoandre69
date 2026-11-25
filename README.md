@@ -36,6 +36,11 @@ Outside work, I like exploring technologies beyond my daily stack, such as C#, P
 <img alt="Static Badge" src="https://img.shields.io/badge/nextjs-s?style=for-the-badge&logo=Next.js&logoColor=%23fff&color=3178C6">
 <img alt="Static Badge" src="https://img.shields.io/badge/nodejs-s?style=for-the-badge&logo=Node.js&logoColor=%23fff&color=3178C6">
 <img alt="Static Badge" src="https://img.shields.io/badge/express-s?style=for-the-badge&logo=Express&logoColor=%23fff&color=3178C6">
+<img alt="Static Badge" src="https://img.shields.io/badge/python-3178C6?style=for-the-badge&logo=python&logoColor=fff">
+<img alt="Static Badge" src="https://img.shields.io/badge/c%23-3178C6?style=for-the-badge&logo=dotnet&logoColor=fff">
+<img alt="Static Badge" src="https://img.shields.io/badge/docker-3178C6?style=for-the-badge&logo=docker&logoColor=fff">
+<img alt="Static Badge" src="https://img.shields.io/badge/rabbitmq-3178C6?style=for-the-badge&logo=rabbitmq&logoColor=fff">
+<img alt="Static Badge" src="https://img.shields.io/badge/git-3178C6?style=for-the-badge&logo=git&logoColor=fff">
   
 </p>
 
